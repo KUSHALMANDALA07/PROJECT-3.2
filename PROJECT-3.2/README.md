@@ -6,7 +6,7 @@
 
 ## RAM4K
 
-<img src = "./RAM4k.SCR.png"/>
+<img src = "./RAM4K.SCR.png"/>
 
 ## RAM16K
 
