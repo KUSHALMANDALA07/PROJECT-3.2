@@ -2,16 +2,16 @@
 
 ## RAM512 
 
-<img src = /"RAM512.SCR"/>
+<img src = "./RAM512.SCR.png"/>
 
 ## RAM4K
 
-<img src = /"RAM4k.SCR"/>
+<img src = "./RAM4k.SCR.png"/>
 
 ## RAM16K
 
-<img src = /"RAM16K.SCR"/>
+<img src = "./RAM16K.SCR.png"/>
 
 ## PC
 
-<img src = /"PC.SCR"/>
+<img src = "./PC.SCR.png"/>
